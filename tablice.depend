@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1638856702 source:/home/qwerty891/Projekty/C/tablice/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tablice.h"
+
+1638856747 /home/qwerty891/Projekty/C/tablice/tablice.h
+	<stdio.h>
+	<stdlib.h>
+
